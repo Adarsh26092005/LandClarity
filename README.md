@@ -8,7 +8,7 @@
 ## 👥 Team Identity
 - **Team Name**: bruteforce
 - **Team Members**:
-  - **Kumar Adarsh** (Team Lead)
+  - **Kumar Adarsh** 
   - **Harsh Kumar**
   - **Ankit Singh**
   - **Awanish Kumar**
