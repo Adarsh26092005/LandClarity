@@ -1,0 +1,16 @@
+{
+  "name": "@landclarity/shared",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Shared domain models, enums, DTO interfaces and constants for LandClarity",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -b",
+    "watch": "tsc -b -w",
+    "clean": "node -e \"const fs = require('fs'); fs.rmSync('dist', { recursive: true, force: true });\""
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
